@@ -3,10 +3,14 @@
     "displayName": "Monokai Alt Alt",
     "description": "A twist on Monokai Alt!",
     "publisher": "tyirvine",
-    "icon": "images/VS Code Monokai Alt Alt.png",
+    "icon": "images/monokai_alt_alt.png",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/tyirvine/monokai-alt-alt"
+    },
+    "bugs": {
+        "url": "https://github.com/tyirvine/monokai-alt-alt/issues"
     },
     "version": "0.0.2",
     "engines": {
@@ -15,12 +19,24 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "icon-theme",
+        "theme",
+        "ayu"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Monokai Alt Alt",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai Alt Alt-color-theme.json"
+            }
+        ],
+        "iconThemes": [
+            {
+                "id": "Monokai Alt Alt Icons",
+                "label": "Icons",
+                "path": "./icons.json"
             }
         ]
     }
