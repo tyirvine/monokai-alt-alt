@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "monokai-alt-alt"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Monokai Alt Alt
+This theme is based on [Monokai Alt](https://github.com/sarcadass/vscode-monokai-alt). I cleaned it up a bit, removed the underlines and unified the design.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<img width="1222" alt="Screen Shot 2021-03-01 at 6 44 55 PM" src="https://user-images.githubusercontent.com/39813066/109584376-96f5d400-7abe-11eb-9331-af5d17604994.png">
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+You can create issues [here](/issues). I'm active on here so I should see it pretty quickly.
