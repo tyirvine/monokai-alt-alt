@@ -54,6 +54,7 @@
 		"sideBarSectionHeader.background": "#1c2024",
 		"sideBarSectionHeader.border": "#181A1F",
 		"sideBar.border": "#181A1F",
+		"input.border": "#373b42",
 		"statusBar.background": "#21252b",
 		"statusBar.border": "#181A1F",
 		"statusBar.foreground": "#8d929c",

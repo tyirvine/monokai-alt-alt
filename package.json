@@ -20,9 +20,10 @@
         "Themes"
     ],
     "keywords": [
-        "icon-theme",
+        "icon",
         "theme",
-        "ayu"
+        "monokai",
+        "seti"
     ],
     "contributes": {
         "themes": [
