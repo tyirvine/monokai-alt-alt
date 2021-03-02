@@ -5,5 +5,5 @@ This theme is based on [Monokai Alt](https://github.com/sarcadass/vscode-monokai
 
 ## Contributions
 All contributions are welcome! I'd like to keep the base semantic theme as Monokai Seti but everything else can change! Or more themes can be made.
-* To contribute, fork this project, make your changes, and then make a pull request to this repository with your changes.
+* To contribute, fork this project, make your changes, and then make a pull request to this [repository](https://github.com/tyirvine/monokai-alt-alt) with your changes.
 * If you find any bugs you can report them [here](https://github.com/tyirvine/monokai-alt-alt/issues).
