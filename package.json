@@ -1,8 +1,14 @@
 {
     "name": "monokai-alt-alt",
-    "displayName": "monokai-alt-alt",
-    "description": "A twist on Monokai Alt",
-    "version": "0.0.1",
+    "displayName": "Monokai Alt Alt",
+    "description": "A twist on Monokai Alt!",
+    "publisher": "tyirvine",
+    "icon": "images/VS Code Monokai Alt Alt.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tyirvine/monokai-alt-alt"
+    },
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.53.0"
     },
