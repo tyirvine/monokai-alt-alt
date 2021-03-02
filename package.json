@@ -3,7 +3,7 @@
     "displayName": "Monokai Alt Alt",
     "description": "A twist on Monokai Alt!",
     "publisher": "tyirvine",
-    "icon": "images/VS Code Monokai Alt Alt.png",
+    "icon": "images/monokai_alt_alt.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/tyirvine/monokai-alt-alt"
