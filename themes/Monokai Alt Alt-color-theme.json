@@ -29,6 +29,7 @@
 		"editorHoverWidget.background": "#21252B",
 		"editorWidget.background": "#21252b",
 		"activityBar.border": "#181A1F",
+		"activityBar.activeBorder": "#ff7b00",
 		"editorHoverWidget.border": "#181A1F",
 		"editorSuggestWidget.background": "#21252B",
 		"editorSuggestWidget.border": "#181A1F",
@@ -68,6 +69,11 @@
 		"scrollbar.shadow": "#0c0d0f",
 		"editorGutter.modifiedBackground": "#00d9ffce",
 		"editorGutter.addedBackground": "#7bff00a1",
+		"panel.background": "#1c2024",
+		"panel.border": "#181A1F",
+		"panelTitle.activeBorder": "#ff7b00",
+		"panelSectionHeader.background": "#1c2024",
+		"panelSectionHeader.border": "#181A1F",
 	},
 	"tokenColors": [
 		{
