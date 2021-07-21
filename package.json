@@ -1,6 +1,6 @@
 {
     "name": "monokai-alt-alt",
-    "displayName": "Monokai Alt Alt",
+    "displayName": "Monokai Alt Alt Theme",
     "description": "A twist on Monokai Alt!",
     "publisher": "tyirvine",
     "icon": "images/monokai_alt_alt.png",
@@ -12,7 +12,7 @@
     "bugs": {
         "url": "https://github.com/tyirvine/monokai-alt-alt/issues"
     },
-    "version": "0.0.4",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -23,7 +23,10 @@
         "icon",
         "theme",
         "monokai",
-        "seti"
+        "seti",
+        "alt",
+        "unity",
+        "react"
     ],
     "contributes": {
         "themes": [
@@ -31,13 +34,6 @@
                 "label": "Monokai Alt Alt",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai Alt Alt-color-theme.json"
-            }
-        ],
-        "iconThemes": [
-            {
-                "id": "Monokai Alt Alt Icons",
-                "label": "Icons",
-                "path": "./icons.json"
             }
         ]
     }
