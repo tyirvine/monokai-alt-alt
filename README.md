@@ -1,5 +1,5 @@
 # Monokai Alt Alt
-[![](https://vsmarketplacebadge.apphb.com/version/eamodio.monokai-alt-alt.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.monokai-alt-alt) [![](https://vsmarketplacebadge.apphb.com/installs/eamodio.monokai-alt-alt.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.monokai-alt-alt) [![](https://vsmarketplacebadge.apphb.com/rating/eamodio.monokai-alt-alt.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.monokai-alt-alt)
+[![](https://vsmarketplacebadge.apphb.com/version/tyirvine.monokai-alt-alt.svg)](https://marketplace.visualstudio.com/items?itemName=tyirvine.monokai-alt-alt) [![](https://vsmarketplacebadge.apphb.com/installs/tyirvine.monokai-alt-alt.svg)](https://marketplace.visualstudio.com/items?itemName=tyirvine.monokai-alt-alt) [![](https://vsmarketplacebadge.apphb.com/rating/tyirvine.monokai-alt-alt.svg)](https://marketplace.visualstudio.com/items?itemName=tyirvine.monokai-alt-alt)
 
 This theme is based on [Monokai Alt](https://github.com/sarcadass/vscode-monokai-alt). I cleaned it up a bit, removed the underlines and unified the design. Feel free to modify this theme and post a version of your own! 😊
 
