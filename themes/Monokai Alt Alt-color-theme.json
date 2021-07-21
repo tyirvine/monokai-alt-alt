@@ -332,19 +332,24 @@
 		{
 			"name": "HTML tags",
 			"scope": [
+				"entity.name.tag",
 				"entity.name.tag.js",
 				"entity.name.tag.inline.any.html",
 				"entity.name.tag.block.any.html",
 				"entity.name.tag.structure.any.html",
-				"entity.name.tag.jade"
+				"entity.name.tag.jade",
+				"entity.name.tag.tsx",
+				"entity.name.tag.jsx"
 			],
 			"settings": {
-				"foreground": "#d9d9fa"
+				"foreground": "#a175e7"
 			}
 		},
 		{
 			"name": "= in JSX attr",
-			"scope": "meta.tag.attributes keyword.operator.assignment.js",
+			"scope": [
+				"meta.tag.attributes keyword.operator.assignment.js",
+			],
 			"settings": {
 				"foreground": "#e6db74"
 			}
